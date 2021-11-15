@@ -1,0 +1,19 @@
+/*reset*/
+*{margin: 0; padding: 0;}
+.clearfix::before, .clearfix::after{display: block; content: ''; clear: both;}
+
+/*레이아웃*/
+#wrap{width:1200px;  margin: 0 auto;}
+
+/* header */
+#header{width: 100%; }
+#header .logo{float: left; width: 250px; height: 100px; background: #888;}
+#header .nav{float: left; width: 950px; height: 100px; background: #777;}
+/* banner */
+#banner{width: 100%; height: 300px; background: #222;}
+
+/* contents */
+#contents{width: 100%; height: 200px; background: #333;}
+
+/* footer */
+#footer{width: 100%; height: 100px; background: #444;}
