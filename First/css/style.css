@@ -6,14 +6,20 @@
 #wrap{width:1200px;  margin: 0 auto;}
 
 /* header */
-#header{width: 100%; }
+#header{}
 #header .logo{float: left; width: 250px; height: 100px; background: #888;}
 #header .nav{float: left; width: 950px; height: 100px; background: #777;}
 /* banner */
-#banner{width: 100%; height: 300px; background: #222;}
+#banner{width: 100%; height: 300px; background: #666;}
 
 /* contents */
-#contents{width: 100%; height: 200px; background: #333;}
-
+#contents{}
+#contents > div{}
+#contents > div.cont1{float: left; width: 400px; height: 200px; background: #555;}
+#contents > div.cont2{float: left; width: 400px; height: 200px; background: #444;}
+#contents > div.cont3{float: left; width: 400px; height: 200px; background: #333;}
 /* footer */
-#footer{width: 100%; height: 100px; background: #444;}
+#footer{}
+#footer .foot1{float: left; width: 200px; height: 100px; background: #888;}
+#footer .foot2{float: left; width: 800px; height: 100px; background: #777;}
+#footer .foot3{float: left; width: 200px; height: 100px; background: #666;}
