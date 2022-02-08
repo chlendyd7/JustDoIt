@@ -1,0 +1,11 @@
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\bin\Debug\Bus.exe.config
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\bin\Debug\Bus.exe
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\bin\Debug\Bus.pdb
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\obj\Debug\Bus.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\obj\Debug\Bus.Form1.resources
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\obj\Debug\Bus.Properties.Resources.resources
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\obj\Debug\Bus.csproj.GenerateResource.cache
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\obj\Debug\Bus.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\obj\Debug\Bus.exe
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\obj\Debug\Bus.pdb
+C:\Users\최두용\Desktop\코딩\C#\Self\Bus\Bus\Bus\obj\Debug\Bus.csproj.AssemblyReference.cache
