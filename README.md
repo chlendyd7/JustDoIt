@@ -271,17 +271,21 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/JSP01.JPG" alt="..." />
+                                   
+                                    <!-- 깃허브 링크 넣기<a href=> -->
+
+                                        <img class="img-fluid rounded mb-5" src="assets/img/portfolio/JSP01.JPG" alt="..." />
+                                    </a>
                                     <!-- Portfolio Modal - Text-->
                                     
-                                    <p class="mb-4" style="padding-left: 0%;">JSP를 활용한 글쓰기 게시판으로 솔로 프로젝트이다. Bootstrap을 사용하여 디자인을 갖추었고
-                                    DB를 연동하여 회원가입 기능과 로그인 기능, 게시판의 글을 저장하는 기능을 구현하였다.</p>
+                                    <p class="mb-4" style="padding-left: 0%;">JSP를 활용한 글쓰기 게시판으로 솔로 프로젝트입니다. Bootstrap을 사용하여 디자인을 갖추었고<br>
+                                    DB를 연동하여 회원가입 기능과 로그인 기능, 게시판의 글을 저장하는 기능을 구현하였습니다.</p>
 
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/Starbucks.JPG" alt="..." />
-                                    <p class="mb-4" style="padding-left: 0%;">JSP를 활용한 팀프로젝트로 Starbucks 주문 페이지로 로그인, 회원가입, DB에서 메뉴 불러오기, 주문하기, 검색 기능 등을 구현하였다.
+                                    <p class="mb-4" style="padding-left: 0%;">JSP를 활용한 팀프로젝트로 Starbucks 주문 페이지를 만들었습니다.<br> 로그인, 회원가입, 메뉴 불러오기, 주문하기, 검색 기능 등을 구현하였습니다.
                                     </p>
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/MyJob.JPG" alt="..." />
-                                    <p>나는 이 중 회원가입 페이지를 중심으로 작업했으며 아이디 중복체크, 비밀번호 확인, 주소 검색 기능을 구현하였다. </p>
+                                    <p>저는 이 중 아이디 중복체크, 비밀번호 확인, 주소 검색 기능이 있는 <br>회원가입 페이지를 중심으로 프로젝트를 진행했습니다. </p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
                                         Close Window
@@ -312,11 +316,14 @@
                                     </div>
                                     <!-- Portfolio Modal - Image-->
                                     <img class="img-fluid rounded mb-5" src="assets/img/portfolio/C_Bus.png" alt="..." />
+                                    <p>API를 활용한 버스 도착시간을 알려주는 솔로 프로젝트 입니다. 공공데이터 사이트에서<br> API를 불러오며 불러온 값들을 ListView를 사용하여 알맞은 위치에 넣었습니다. </p>
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4"> </p>
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/Movie.jpg" alt="..." />
+                                    <p>API를 활용한 버스 도착시간을 알려주는 솔로 프로젝트 입니다. 공공데이터 사이트에서 API를 불러오며 불러온 값들을 ListView를 사용하여 알맞은 위치에 넣었습니다. </p>
                                     <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
                                         <i class="fas fa-times fa-fw"></i>
-                                        Close Window
+                                        창 닫기
                                     </button>
                                 </div>
                             </div>
