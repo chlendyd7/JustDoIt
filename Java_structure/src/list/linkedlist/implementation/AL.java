@@ -3,7 +3,7 @@ package list.linkedlist.implementation;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class ArrayList_practice {
+public class AL {
 	public static void main(String[] args) {
 		ArrayList<Integer> numbers = new ArrayList<Integer>();
 		
@@ -11,7 +11,6 @@ public class ArrayList_practice {
 		numbers.add(20);
 		numbers.add(30);
 		numbers.add(40);
-		System.out.println("add(값)");
 		System.out.println(numbers);
 		
 		numbers.add(1,50);
@@ -29,11 +28,12 @@ public class ArrayList_practice {
         System.out.println(numbers.indexOf(30));
 
 		
-		Iterator it = numbers.iterator();
+		Iterator <Integer>it = numbers.iterator();
 		while(it.hasNext()) {
 			int value = (int)it.next();
 		}
 		
+		System.out.println("\nfor:");
 		for(int value1:numbers) {
 			System.out.println(value1);
 			
