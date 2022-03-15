@@ -1,0 +1,7 @@
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\3_15_2\bin\Debug\3_15_2.exe.config
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\3_15_2\bin\Debug\3_15_2.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\3_15_2\bin\Debug\3_15_2.pdb
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\3_15_2\obj\Debug\3_15_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\3_15_2\obj\Debug\3_15_2.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\3_15_2\obj\Debug\3_15_2.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\3_15_2\obj\Debug\3_15_2.pdb

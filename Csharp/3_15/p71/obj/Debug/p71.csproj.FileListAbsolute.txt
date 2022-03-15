@@ -1,0 +1,8 @@
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\p71\bin\Debug\p71.exe.config
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\p71\bin\Debug\p71.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\p71\bin\Debug\p71.pdb
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\p71\obj\Debug\p71.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\p71\obj\Debug\p71.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\p71\obj\Debug\p71.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\p71\obj\Debug\p71.pdb
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\3_15\p71\obj\Debug\p71.csproj.AssemblyReference.cache
