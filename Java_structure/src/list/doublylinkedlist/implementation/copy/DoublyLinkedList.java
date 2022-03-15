@@ -52,7 +52,7 @@ private class Node {
             tail.next = newNode;
             // 새로운 노드의 이전 노드로 tail을 지정합니다.
             newNode.prev = tail;
-            // 마지막 노드를 갱신합니다.
+            // 마지막 노드를 갱신합니다. 순서를 잘 기억
             tail = newNode;
             // 엘리먼트의 개수를 1 증가 시킵니다.
             size++;
