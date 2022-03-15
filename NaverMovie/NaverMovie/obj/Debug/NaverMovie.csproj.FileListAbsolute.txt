@@ -1,0 +1,11 @@
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\bin\Debug\NaverMovie.exe.config
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\bin\Debug\NaverMovie.exe
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\bin\Debug\NaverMovie.pdb
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\obj\Debug\NaverMovie.csproj.AssemblyReference.cache
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\obj\Debug\NaverMovie.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\obj\Debug\NaverMovie.Form1.resources
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\obj\Debug\NaverMovie.Properties.Resources.resources
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\obj\Debug\NaverMovie.csproj.GenerateResource.cache
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\obj\Debug\NaverMovie.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\obj\Debug\NaverMovie.exe
+C:\Users\최두용\Desktop\코딩\C#\Self\Movie\NaverMovie\NaverMovie\obj\Debug\NaverMovie.pdb
