@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a007b1a-cc5e-45ea-bac1-035580f681df": {
+      "ProjectGuid": "3a007b1a-cc5e-45ea-bac1-035580f681df",
+      "DisplayName": "ClientSocket",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

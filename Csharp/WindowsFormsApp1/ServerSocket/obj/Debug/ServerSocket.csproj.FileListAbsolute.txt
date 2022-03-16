@@ -1,0 +1,7 @@
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\WindowsFormsApp1\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\WindowsFormsApp1\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\WindowsFormsApp1\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\WindowsFormsApp1\ServerSocket\obj\Debug\ServerSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\WindowsFormsApp1\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\WindowsFormsApp1\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\WindowsFormsApp1\ServerSocket\obj\Debug\ServerSocket.pdb
