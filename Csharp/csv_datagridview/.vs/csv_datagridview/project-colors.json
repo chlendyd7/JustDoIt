@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7db77481-f80b-46b2-ba7b-2f961e37ce59": {
+      "ProjectGuid": "7db77481-f80b-46b2-ba7b-2f961e37ce59",
+      "DisplayName": "csv_datagridview",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

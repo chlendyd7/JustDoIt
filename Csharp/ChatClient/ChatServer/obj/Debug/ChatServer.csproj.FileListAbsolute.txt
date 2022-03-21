@@ -1,0 +1,3 @@
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ChatClient\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ChatClient\ChatServer\obj\Debug\ChatServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ChatClient\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b58085f0-8db9-44e1-9fb2-2087146773a9": {
+      "ProjectGuid": "b58085f0-8db9-44e1-9fb2-2087146773a9",
+      "DisplayName": "ChatClient",
+      "ColorIndex": 0
+    },
+    "a069cb47-09af-4acb-92c9-99a59111148a": {
+      "ProjectGuid": "a069cb47-09af-4acb-92c9-99a59111148a",
+      "DisplayName": "ChatServer",
+      "ColorIndex": 1
+    },
+    "ecc046f0-72d7-42b8-8197-804f5e7337e4": {
+      "ProjectGuid": "ecc046f0-72d7-42b8-8197-804f5e7337e4",
+      "DisplayName": "ChatCommon",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
