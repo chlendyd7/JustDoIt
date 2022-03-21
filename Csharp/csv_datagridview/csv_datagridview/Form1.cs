@@ -42,7 +42,25 @@ namespace csv_datagridview
             string[] keys = null;
             string[] values = null;
 
-            while((strLineValue = sr.ReadLine()) !=null)
+            TextFieldParser parser = new TextFieldParser(fs);
+            parser.TextFieldType = FieldType.Delimited;
+            parser.SetDelimiters(",");
+            DataTable table = new DataTable();
+            while (!parser.EndOfData)
+            {
+                string[] fields = parser.ReadFields();
+                for(int i =0; i<fields.Length; i++)
+                {
+                    if (i <10)
+                        table.Columns.Add(fields[i], typeof(string));
+                    
+                    
+                   
+                    
+                }
+            }
+            dataGridView1.DataSource = table;
+            /*while((strLineValue = sr.ReadLine()) !=null)
             {
                 if (string.IsNullOrEmpty(strLineValue)) 
                     return;
@@ -53,13 +71,13 @@ namespace csv_datagridview
 
                     keys[0] = keys[0].Replace("#", "");
                     richTextBox1.Text+= "Key :";
-
+                     
                     for(int i = 0; i<keys.Length; i++)
                     {
                         richTextBox1.Text +=keys[i];
                         if(i !=keys.Length - 1)
                         {
-                            richTextBox1.Text += ",";
+                            
                         }
                         continue;
                             
@@ -76,22 +94,16 @@ namespace csv_datagridview
 
                 }
 
-            }
+            }*/
 
 
 
-            TextFieldParser parser = new TextFieldParser(strFile);
-            parser.TextFieldType = FieldType.Delimited;
-            parser.SetDelimiters(",");
-            while (!parser.EndOfData)
-            {
-                string[] fields = parser.ReadFields();
-                foreach(string field in fields)
-                {
-                    Console.WriteLine(field);
-                }
-            }
 
+
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
 
         }
     }
