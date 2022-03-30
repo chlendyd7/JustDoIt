@@ -1,0 +1,8 @@
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ThreadLogic2\ThreadLogic2\bin\Debug\ThreadLogic2.exe.config
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ThreadLogic2\ThreadLogic2\bin\Debug\ThreadLogic2.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ThreadLogic2\ThreadLogic2\bin\Debug\ThreadLogic2.pdb
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ThreadLogic2\ThreadLogic2\obj\Debug\ThreadLogic2.csproj.AssemblyReference.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ThreadLogic2\ThreadLogic2\obj\Debug\ThreadLogic2.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ThreadLogic2\ThreadLogic2\obj\Debug\ThreadLogic2.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ThreadLogic2\ThreadLogic2\obj\Debug\ThreadLogic2.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ThreadLogic2\ThreadLogic2\obj\Debug\ThreadLogic2.pdb

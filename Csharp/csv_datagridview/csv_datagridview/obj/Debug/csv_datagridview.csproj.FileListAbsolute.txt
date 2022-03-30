@@ -1,0 +1,11 @@
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\bin\Debug\csv_datagridview.exe.config
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\bin\Debug\csv_datagridview.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\bin\Debug\csv_datagridview.pdb
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\obj\Debug\csv_datagridview.csproj.AssemblyReference.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\obj\Debug\csv_datagridview.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\obj\Debug\csv_datagridview.Form1.resources
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\obj\Debug\csv_datagridview.Properties.Resources.resources
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\obj\Debug\csv_datagridview.csproj.GenerateResource.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\obj\Debug\csv_datagridview.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\obj\Debug\csv_datagridview.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\csv_datagridview\csv_datagridview\obj\Debug\csv_datagridview.pdb

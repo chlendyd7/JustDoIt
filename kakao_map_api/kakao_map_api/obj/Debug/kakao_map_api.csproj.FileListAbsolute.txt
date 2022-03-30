@@ -1,0 +1,11 @@
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\bin\Debug\kakao_map_api.exe.config
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\bin\Debug\kakao_map_api.exe
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\bin\Debug\kakao_map_api.pdb
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\obj\Debug\kakao_map_api.csproj.AssemblyReference.cache
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\obj\Debug\kakao_map_api.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\obj\Debug\kakao_map_api.Form1.resources
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\obj\Debug\kakao_map_api.Properties.Resources.resources
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\obj\Debug\kakao_map_api.csproj.GenerateResource.cache
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\obj\Debug\kakao_map_api.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\obj\Debug\kakao_map_api.exe
+C:\Users\최두용\Desktop\코딩\C#\Teach\2022_01_21\kakao_map_api\kakao_map_api\obj\Debug\kakao_map_api.pdb

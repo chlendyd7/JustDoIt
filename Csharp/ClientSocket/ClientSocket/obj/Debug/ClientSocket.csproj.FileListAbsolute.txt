@@ -1,0 +1,7 @@
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe.config
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ClientSocket\ClientSocket\bin\Debug\ClientSocket.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ClientSocket\ClientSocket\bin\Debug\ClientSocket.pdb
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ClientSocket\ClientSocket\obj\Debug\ClientSocket.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ClientSocket\ClientSocket\obj\Debug\ClientSocket.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\ClientSocket\ClientSocket\obj\Debug\ClientSocket.pdb

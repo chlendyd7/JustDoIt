@@ -1,0 +1,11 @@
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\bin\Debug\Thread_practice_01.exe.config
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\bin\Debug\Thread_practice_01.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\bin\Debug\Thread_practice_01.pdb
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\obj\Debug\Thread_practice_01.csproj.AssemblyReference.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\obj\Debug\Thread_practice_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\obj\Debug\Thread_practice_01.Form1.resources
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\obj\Debug\Thread_practice_01.Properties.Resources.resources
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\obj\Debug\Thread_practice_01.csproj.GenerateResource.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\obj\Debug\Thread_practice_01.csproj.CoreCompileInputs.cache
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\obj\Debug\Thread_practice_01.exe
+C:\Users\최두용\Documents\GitHub\JustDoIt\Csharp\Thread_practice_01\Thread_practice_01\obj\Debug\Thread_practice_01.pdb
