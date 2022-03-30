@@ -5,6 +5,11 @@
       "ProjectGuid": "7db77481-f80b-46b2-ba7b-2f961e37ce59",
       "DisplayName": "csv_datagridview",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1
